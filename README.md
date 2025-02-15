@@ -2,8 +2,8 @@
 
 ## The project includes two APIs
 
-- GET /hello
-- POST /form
+- GET /hello - Returns hello as response
+- POST /form - Takes name and address as form input and returns it as response
 
 ### Steps to start this application
 
